@@ -1,6 +1,8 @@
-# flash_chat
+# Flash Chat
 
 Incorporate Firebase NoSQL and secure authentication method into Flutter apps
+
+**Have some bugs
 
 ## Getting Started
 
